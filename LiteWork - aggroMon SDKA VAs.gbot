@@ -162,7 +162,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdJoin, Grimoire",
-        "Map": "shadowrealmpast",
+        "Map": "shadowrealmpast-69420",
         "Cell": "Enter",
         "Pad": "Spawn",
         "Try": 1,
