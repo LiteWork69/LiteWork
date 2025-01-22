@@ -503,7 +503,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdJoin, Grimoire",
-        "Map": "citade-[RoomNum]",
+        "Map": "citadel-[RoomNum]",
         "Cell": "Enter",
         "Pad": "Spawn",
         "Try": 1,
