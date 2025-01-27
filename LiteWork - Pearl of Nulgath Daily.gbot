@@ -416,7 +416,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdJoin, Grimoire",
-        "Map": "evilmarsh-[RoomNum]",
+        "Map": "ultraalteon-[RoomNum]",
         "Cell": "Enter",
         "Pad": "Spawn",
         "Try": 1,
@@ -424,7 +424,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdMoveToCell, Grimoire",
-        "Cell": "End",
+        "Cell": "r10",
         "Pad": "Left"
       },
       {
@@ -582,7 +582,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdJoin, Grimoire",
-        "Map": "evilmarsh-[RoomNum]",
+        "Map": "ultraalteon-[RoomNum]",
         "Cell": "Enter",
         "Pad": "Spawn",
         "Try": 1,
@@ -590,7 +590,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdMoveToCell, Grimoire",
-        "Cell": "End",
+        "Cell": "r10",
         "Pad": "Left"
       },
       {
@@ -805,7 +805,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdJoin, Grimoire",
-        "Map": "evilmarsh-[RoomNum]",
+        "Map": "ultraalteon-[RoomNum]",
         "Cell": "Enter",
         "Pad": "Spawn",
         "Try": 1,
@@ -813,7 +813,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdMoveToCell, Grimoire",
-        "Cell": "End",
+        "Cell": "r10",
         "Pad": "Left"
       },
       {
