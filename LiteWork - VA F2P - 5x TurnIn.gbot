@@ -1055,7 +1055,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Map.CmdJoin, Grimoire",
-        "Map": "mau-[RoomNum]",
+        "Map": "maul-[RoomNum]",
         "Cell": "Enter",
         "Pad": "Spawn",
         "Try": 1,
@@ -1184,4 +1184,5 @@
   "AntiCounter": true,
   "FollowName": "Player",
   "AutoZone": ""
+
 }
